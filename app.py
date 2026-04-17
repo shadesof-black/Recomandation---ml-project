@@ -4,7 +4,7 @@ import streamlit as st
 # =============================
 # CONFIG
 # =============================
-API_BASE = "https://movie-rec-466x.onrender.com"
+API_BASE = "https://recomandation-ml-project.onrender.com" or "https://movie-rec-466x.onrender.com"
 TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 TMDB_FALLBACK = "https://via.placeholder.com/300x450/1a1a2e/e94560?text=No+Poster"
 
