@@ -20,8 +20,6 @@
     Converts text data → vectors using NLP
     Calculates similarity using cosine similarity
 
-    | Category   | Tools Used                  |
-| ---------- | --------------------------- |
 | Language   | Python 🐍                   |
 | Libraries  | Pandas, NumPy, Scikit-learn |
 | ML Concept | Cosine Similarity           |
@@ -30,9 +28,6 @@
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-   git clone https://github.com/shadesof-black/Recomandation---ml-project.git
-   cd Recomandation---ml-project
-
 2️⃣ Create virtual environment (optional)
 3️⃣ Install dependencies
 4️⃣ Run the project
